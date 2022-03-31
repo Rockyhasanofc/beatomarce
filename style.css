@@ -20,3 +20,42 @@
  cursor: pointer;
 
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+.cat2{
+    background-color: #ff136f;
+}
+.cat3{
+    background-color: #FF589B;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height: 300px;
+}
+.blank-button{
+ 
+   border-radius: 5px;
+   color: white;
+   background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+
+}
+footer{
+    text-align: center;
+}
